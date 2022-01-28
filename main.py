@@ -1,5 +1,5 @@
 
-#comparing 2 arrays to one another inspired by algorithm on longest common substring problem
+#comparing 2 arrays to one another, compare2ars is inspired by algorithm on longest common substring problem
 def compare2ars(byte_arr_one, byte_arr_two):
 
     #create a double array and fill with the count of recurrance if bytes are the same
